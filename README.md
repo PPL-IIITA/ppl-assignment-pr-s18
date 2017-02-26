@@ -2,7 +2,7 @@
 ppl-assignment-pr-s18 created by GitHub Classroom
 # Made by Priyanka Singla (IIT2015504)
 # To create library file (504_lib.a) execute these commands
-g++ -c boy.cpp
+g++ -c boy.cpp;
 g++ -c couple.cpp
 g++ -c generate_boy.cpp
 g++ -c generate_gift.cpp
