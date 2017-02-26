@@ -1,0 +1,580 @@
+Boy: GCBBX gave 9 gifts to Girl: WJHQQTE
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Essential gift: 	214	64	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	217	34	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	251	68	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	266	17	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	315	10	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	324	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	381	23	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	510	8	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	529	13	-1		-1		-1		-1
+
+
+Boy: UTUZT gave 14 gifts to Girl: GTFHPRZ
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Essential gift: 	214	64	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	217	34	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	251	68	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	266	17	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	315	10	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	324	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	381	23	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	510	8	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	529	13	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	540	6	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	564	83	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	655	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	760	93	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	771	63	-1		-1		-1		-1
+
+
+Boy: PUBOL gave 15 gifts to Girl: JWIXJOJ
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Essential gift: 	214	64	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	217	34	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	251	68	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	266	17	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	315	10	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	324	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	381	23	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	510	8	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	529	13	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	540	6	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	564	83	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	655	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	760	93	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	771	63	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	802	80	-1		-1		-1		-1
+
+
+Boy: UGKOH gave 15 gifts to Girl: OBKZBGV
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Essential gift: 	214	64	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	217	34	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	251	68	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	266	17	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	315	10	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	324	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	381	23	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	510	8	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	529	13	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	540	6	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	564	83	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	655	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	760	93	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	771	63	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Luxury gift: 		3025	90	1		8		-1		-1
+
+
+Boy: KJMLU gave 1 gifts to Girl: SXNOIUH
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Utility gift: 		5341	92	-1		-1		8		9
+
+
+Boy: FCFHE gave 14 gifts to Girl: YONGJSQ
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Essential gift: 	214	64	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	217	34	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	251	68	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	266	17	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	315	10	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	324	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	381	23	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	510	8	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	529	13	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	540	6	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	564	83	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	655	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	760	93	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	771	63	-1		-1		-1		-1
+
+
+Boy: LTJMJ gave 2 gifts to Girl: YJPHHXH
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Utility gift: 		5949	35	-1		-1		68		3
+Mon Feb 27 00:19:03 2017
+Luxury gift: 		3486	38	0		0		-1		-1
+
+
+Boy: LLJVK gave 12 gifts to Girl: SMSHPDI
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Essential gift: 	214	64	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	217	34	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	251	68	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	266	17	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	315	10	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	324	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	381	23	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	510	8	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	529	13	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	540	6	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	564	83	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	655	36	-1		-1		-1		-1
+
+
+Boy: BVHUG gave 14 gifts to Girl: QJDKIQZ
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Essential gift: 	214	64	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	217	34	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	251	68	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	266	17	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	315	10	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	324	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	381	23	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	510	8	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	529	13	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	540	6	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	564	83	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	655	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	760	93	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	771	63	-1		-1		-1		-1
+
+
+Boy: OVOJO gave 12 gifts to Girl: QMIRAVX
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Essential gift: 	214	64	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	217	34	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	251	68	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	266	17	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	315	10	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	324	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	381	23	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	510	8	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	529	13	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	540	6	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	564	83	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	655	36	-1		-1		-1		-1
+
+
+Boy: HVJVZ gave 2 gifts to Girl: KQNKZCU
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Utility gift: 		5949	35	-1		-1		68		3
+Mon Feb 27 00:19:03 2017
+Essential gift: 	564	83	-1		-1		-1		-1
+
+
+Boy: XELOU gave 15 gifts to Girl: JABDOTM
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Essential gift: 	214	64	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	217	34	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	251	68	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	266	17	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	315	10	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	324	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	381	23	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	510	8	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	529	13	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	540	6	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	564	83	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	655	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	760	93	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	771	63	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	802	80	-1		-1		-1		-1
+
+
+Boy: BDJIO gave 2 gifts to Girl: DWUVGZF
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Utility gift: 		5949	35	-1		-1		68		3
+Mon Feb 27 00:19:03 2017
+Essential gift: 	381	23	-1		-1		-1		-1
+
+
+Boy: IEXTE gave 10 gifts to Girl: QPGHEOY
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Essential gift: 	214	64	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	217	34	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	251	68	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	266	17	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	315	10	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	324	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	381	23	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	510	8	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	529	13	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	540	6	-1		-1		-1		-1
+
+
+Boy: AOFXR gave 11 gifts to Girl: EMXQCLB
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Essential gift: 	214	64	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	217	34	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	251	68	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	266	17	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	315	10	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	324	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	381	23	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	510	8	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	529	13	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	540	6	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	564	83	-1		-1		-1		-1
+
+
+Boy: JIZSE gave 12 gifts to Girl: DPVORYS
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Essential gift: 	214	64	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	217	34	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	251	68	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	266	17	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	315	10	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	324	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	381	23	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	510	8	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	529	13	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	540	6	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	564	83	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Luxury gift: 		2490	64	0		7		-1		-1
+
+
+Boy: VDSJD gave 13 gifts to Girl: FREKOZF
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Essential gift: 	214	64	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	217	34	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	251	68	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	266	17	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	315	10	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	324	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	381	23	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	510	8	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	529	13	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	540	6	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	564	83	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	655	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	760	93	-1		-1		-1		-1
+
+
+Boy: QIITW gave 9 gifts to Girl: WALOSTV
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Essential gift: 	214	64	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	217	34	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	251	68	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	266	17	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	315	10	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	324	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	381	23	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	510	8	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	529	13	-1		-1		-1		-1
+
+
+Boy: UDPNE gave 12 gifts to Girl: WIVCWTT
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Essential gift: 	214	64	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	217	34	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	251	68	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	266	17	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	315	10	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	324	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	381	23	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	510	8	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	529	13	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	540	6	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	564	83	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Luxury gift: 		3025	90	1		8		-1		-1
+
+
+Boy: IIVTE gave 11 gifts to Girl: YGWBXTQ
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Essential gift: 	214	64	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	217	34	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	251	68	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	266	17	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	315	10	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	324	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	381	23	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	510	8	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	529	13	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	540	6	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	564	83	-1		-1		-1		-1
+
+
+Boy: GFPKI gave 14 gifts to Girl: PRKWIQH
+Type of Gift		Price	Value	Lux_Rating	Lux_Difficulty	Utility_value	Utility_class
+
+Mon Feb 27 00:19:03 2017
+Essential gift: 	214	64	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	217	34	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	251	68	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	266	17	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	315	10	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	324	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	381	23	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	510	8	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	529	13	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	540	6	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	564	83	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	655	36	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	760	93	-1		-1		-1		-1
+Mon Feb 27 00:19:03 2017
+Essential gift: 	771	63	-1		-1		-1		-1
+
+
+12 Happiest couples:			12 Compatible couples:
+Mon Feb 27 00:19:06 2017
+YJPHHXH LTJMJ 10532			YJPHHXH LTJMJ 5218
+
+Mon Feb 27 00:19:06 2017
+KQNKZCU HVJVZ 7334			SMSHPDI LLJVK 5040
+
+Mon Feb 27 00:19:06 2017
+SXNOIUH KJMLU 6198			YGWBXTQ IIVTE 4904
+
+Mon Feb 27 00:19:06 2017
+YGWBXTQ IIVTE 5253			WIVCWTT UDPNE 4158
+
+Mon Feb 27 00:19:06 2017
+SMSHPDI LLJVK 4594			PRKWIQH GFPKI 3757
+
+Mon Feb 27 00:19:06 2017
+EMXQCLB AOFXR 3971			EMXQCLB AOFXR 3617
+
+Mon Feb 27 00:19:06 2017
+YONGJSQ FCFHE 3158			KQNKZCU HVJVZ 3568
+
+Mon Feb 27 00:19:06 2017
+WIVCWTT UDPNE 2989			YONGJSQ FCFHE 3481
+
+Mon Feb 27 00:19:06 2017
+DPVORYS JIZSE 2986			WJHQQTE GCBBX 3303
+
+Mon Feb 27 00:19:06 2017
+JABDOTM XELOU 1365			SXNOIUH KJMLU 3076
+
+Mon Feb 27 00:19:06 2017
+GTFHPRZ UTUZT 689			OBKZBGV UGKOH 3054
+
+Mon Feb 27 00:19:06 2017
+QPGHEOY IEXTE 456			GTFHPRZ UTUZT 3006
+
