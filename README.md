@@ -51,3 +51,9 @@ doc/html/index.html
 ```
 PPL_documentation.pdf
 ```
+### System Information
+```
+Operating System - Ubuntu 16.04
+Documentaion - Doxygen
+Class Diagram - VisualParadigm
+```
