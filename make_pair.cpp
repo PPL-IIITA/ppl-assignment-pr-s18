@@ -2,27 +2,18 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <ctime>
+#include <string.h>
 #include "make_pair.h"
 
 using namespace std;
 Pair:: Pair(){
-			FILE *f1, *f2;
-			f1 = fopen ("girl_list.txt", "r");
-			f2 = fopen ("boy_list.txt", "r");
+			Data in(boy, girl);
 			int ng, nb;
-			fscanf (f1, "%d",&ng);
-			fscanf (f2, "%d",&nb);
-			int i,j;
-			Girl girl[ng+2];
-			for (i = 0; i < ng; i++) {
-				fscanf (f1, "%s %d %d %d %d %d %d", girl[i].name_id, &girl[i].commited, &girl[i].status, &girl[i].atr, &girl[i].intl, &girl[i].man_cost, &girl[i].criteria);
-			}
-			Boy boy[nb+2];
-			for (i = 0; i < nb; i++) {
-				fscanf (f2, "%s %d %d %d %d %d %d", boy[i].name_id, &boy[i].commited, &boy[i].status, &boy[i].atr, &boy[i].intl, &boy[i].budget, &boy[i].min_atr);
-			}
+			ng = in.ng;
+			nb = in.nb;
 			int flag, index;
 			k = 0;
+			int i, j;
 			for (i = 0; i < ng; i++) {
 				index = 0;
 				flag = 0;
@@ -59,17 +50,14 @@ Pair:: Pair(){
 			}
 		}
 
-
 void Pair::make_gift_basket () {
-			int ngf;
-			FILE *f;
-			f = fopen ("gift_list.txt", "r");
-			fscanf (f, "%d", &ngf);
-			Gift gift[ngf+2];
-			int i, j;
-			for (i = 0; i < ngf; i++) {
-				fscanf (f, "%d %d %d %d %d %d %d %d", &gift[i].value, &gift[i].price, &gift[i].type, &gift[i].is_selected, &gift[i].lux_rate, &gift[i].lux_difficulty, &gift[i].utl_value, &gift[i].utl_class);
-			}
+			int ngf, i, j;
+			Gift gift[100];
+			Boy b[50];
+			Girl g[50];
+			Data in(b, g);
+			in.gifting (gift);
+			ngf = in.n;
 			Gift cpgift[k+1][100];
 			int l = 0;
 			int min = 0, bg, bg1, bg2, min1, M = 0, flag;
@@ -167,6 +155,7 @@ void Pair::make_gift_basket () {
 			}
 }
 
+
 void Pair::find_happiness_comp () {
 			int tot_cost, tot_value;
 			int i, j;
@@ -182,29 +171,165 @@ void Pair::find_happiness_comp () {
 				cp[i].find_happiness();
 				cp[i].find_compatibility();
 			}
-}	
+}
+
 
 void Pair::print_gift() {
 	int i, j, k1 = k;
 	freopen ("Happiness_compatibility_gift.txt", "w", stdout);
 	for (i = 0; i < k1; i++) {
 		printf ("Boy: %s gave %d gifts to Girl: %s\n",cp[i].boy.name_id, cp[i].gift_basket[0].price-1, cp[i].girl.name_id);
-		printf ("Type of Gift\t\tPrice\tValue\tLux_Rating\tLux_Difficulty\tUtility_value\tUtility_class\n\n");
+		printf ("Type of Gift\t\tPrice\tValue\n\n");
 		for (j = 1; j < cp[i].gift_basket[0].price; j++) {
 			time_t now = time(0);
 			char* ctt = ctime (&now);
 			cout <<ctt;
 			if (cp[i].gift_basket[j].type == 0) {
 				printf ("Essential gift: ");
+				printf ("\t%d\t%d\n", cp[i].gift_basket[j].price, cp[i].gift_basket[j].value);
 			}
 			else if (cp[i].gift_basket[j].type == 1) {
 				printf ("Luxury gift: \t");
+				printf ("\t%d\t%d\n",cp[i].gift_basket[j].price, cp[i].gift_basket[j].value);
 			}
 			else if (cp[i].gift_basket[j].type == 2) {
 				printf ("Utility gift: \t");
+				printf ("\t%d\t%d\n", cp[i].gift_basket[j].price, cp[i].gift_basket[j].value);
 			}
-			printf ("\t%d\t%d\t%d\t\t%d\t\t%d\t\t%d\n", cp[i].gift_basket[j].price, cp[i].gift_basket[j].value, cp[i].gift_basket[j].lux_rate, cp[i].gift_basket[j].lux_difficulty, cp[i].gift_basket[j].utl_value, cp[i].gift_basket[j].utl_class);
+			
+			
 		}
 		printf ("\n\n");
 	}
 }
+
+void Pair::print_gift6() {
+	int i, j, k1 = k;
+	freopen ("ques6.txt", "a", stdout);
+	for (i = 0; i < k1; i++) {
+		printf ("Boy: %s gave %d gifts to Girl: %s\n",cp[i].boy.name_id, cp[i].gift_basket[0].price-1, cp[i].girl.name_id);
+		printf ("Type of Gift\t\tPrice\tValue\n\n");
+		for (j = 1; j < cp[i].gift_basket[0].price; j++) {
+			time_t now = time(0);
+			char* ctt = ctime (&now);
+			cout <<ctt;
+			if (cp[i].gift_basket[j].type == 0) {
+				printf ("Essential gift: ");
+				printf ("\t%d\t%d\n", cp[i].gift_basket[j].price, cp[i].gift_basket[j].value);
+			}
+			else if (cp[i].gift_basket[j].type == 1) {
+				printf ("Luxury gift: \t");
+				printf ("\t%d\t%d\n",cp[i].gift_basket[j].price, cp[i].gift_basket[j].value);
+			}
+			else if (cp[i].gift_basket[j].type == 2) {
+				printf ("Utility gift: \t");
+				printf ("\t%d\t%d\n", cp[i].gift_basket[j].price, cp[i].gift_basket[j].value);
+			}
+			
+			
+		}
+		printf ("\n\n");
+	}
+}
+
+int Pair::ret_num (int t) {
+	int temp;
+	int i;
+	int count = 0;
+	for (i = 0; i < k; i++) {
+		temp = cp[i].happiness;
+		if (temp %49 < t) {
+			count++;
+		}
+	}
+	return count;
+}
+
+
+void Pair::breakup(int kc) {
+	int i, j, index, flag, nb;
+	Couple c;
+	FILE *f2;
+	f2 = fopen ("boy_list.txt", "r");
+	fscanf (f2, "%d",&nb);
+	for (i = 0; i < k; i++) {
+		for (j = 0;j < k-1-i; j++) {
+			if (cp[j].happiness > cp[j+1].happiness) {
+				c = cp[j];
+				cp[j] = cp[j+1];
+				cp[j+1] = c;		
+			}
+		}
+	}
+	for (i = 0; i < kc; i++) {
+				index = 0;
+				flag = 0;
+				for (j = 1; j < nb; j++) {
+					if ((j == nb-1) && (boy[index].commited == 1 || (boy[index].budget < girl[i].man_cost || boy[index].min_atr > girl[i].atr))) {				
+						flag = 1;
+					}
+					if (boy[j].commited == 1 || (boy[j].budget < girl[i].man_cost || boy[j].min_atr > girl[i].atr)) {
+						continue;
+					}
+					if (cp[i].girl.criteria == 0) {
+						if (boy[j].atr > boy[index].atr) {
+							index = j;
+						}
+					}
+					else if (cp[i].girl.criteria == 1) {
+						if (boy[j].budget > boy[index].budget) {
+							index = j;
+						}
+					}
+					else if (cp[i].girl.criteria == 2) {
+						if (boy[j].intl > boy[index].intl) {
+							index = j;
+						}
+					}						
+				}
+				if (flag == 0) {
+					boy[index].commited = 1;
+					//girl[i].commited = 1;
+					//cp[k].girl = girl[i];
+					for (j = 1; j < nb; j++) {
+						if (strcmp(boy[j].name_id, cp[i].boy.name_id) == 0) {
+							boy[j].commited = 0;
+							break;
+						}
+					}
+					cp[i].boy = boy[index];
+					
+				}
+						
+	}
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

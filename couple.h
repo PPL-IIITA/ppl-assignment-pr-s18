@@ -4,6 +4,15 @@
 #include "girl.h"
 #include "boy.h"
 #include "gift.h"
+#include "girl_choosy.h"
+#include "girl_normal.h"
+#include "girl_desperate.h"
+#include "boy_geeks.h"
+#include "boy_generous.h"
+#include "boy_miser.h"
+#include "gift_essential.h"
+#include "gift_luxury.h"
+#include "gift_utility.h"
 
 using namespace std;
 

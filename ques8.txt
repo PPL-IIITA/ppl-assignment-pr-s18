@@ -1,0 +1,583 @@
+Boy: KWTVS gave 12 gifts to Girl: KNSAGHY
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Essential gift: 	71	37
+Sun Apr  9 22:47:52 2017
+Essential gift: 	139	73
+Sun Apr  9 22:47:52 2017
+Essential gift: 	144	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	240	35
+Sun Apr  9 22:47:52 2017
+Essential gift: 	320	97
+Sun Apr  9 22:47:52 2017
+Essential gift: 	352	5
+Sun Apr  9 22:47:52 2017
+Essential gift: 	358	19
+Sun Apr  9 22:47:52 2017
+Essential gift: 	387	48
+Sun Apr  9 22:47:52 2017
+Essential gift: 	521	72
+Sun Apr  9 22:47:52 2017
+Essential gift: 	523	32
+Sun Apr  9 22:47:52 2017
+Luxury gift: 		3005	22
+Sun Apr  9 22:47:52 2017
+Utility gift: 		5265	14
+
+
+Boy: AYTXU gave 15 gifts to Girl: RXRVAHT
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Essential gift: 	71	37
+Sun Apr  9 22:47:52 2017
+Essential gift: 	139	73
+Sun Apr  9 22:47:52 2017
+Essential gift: 	144	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	240	35
+Sun Apr  9 22:47:52 2017
+Essential gift: 	320	97
+Sun Apr  9 22:47:52 2017
+Essential gift: 	352	5
+Sun Apr  9 22:47:52 2017
+Essential gift: 	358	19
+Sun Apr  9 22:47:52 2017
+Essential gift: 	387	48
+Sun Apr  9 22:47:52 2017
+Essential gift: 	521	72
+Sun Apr  9 22:47:52 2017
+Essential gift: 	523	32
+Sun Apr  9 22:47:52 2017
+Essential gift: 	626	53
+Sun Apr  9 22:47:52 2017
+Essential gift: 	670	31
+Sun Apr  9 22:47:52 2017
+Essential gift: 	841	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	845	14
+Sun Apr  9 22:47:52 2017
+Essential gift: 	847	52
+
+
+Boy: XYVIY gave 16 gifts to Girl: OZJMBOG
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Essential gift: 	71	37
+Sun Apr  9 22:47:52 2017
+Essential gift: 	139	73
+Sun Apr  9 22:47:52 2017
+Essential gift: 	144	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	240	35
+Sun Apr  9 22:47:52 2017
+Essential gift: 	320	97
+Sun Apr  9 22:47:52 2017
+Essential gift: 	352	5
+Sun Apr  9 22:47:52 2017
+Essential gift: 	358	19
+Sun Apr  9 22:47:52 2017
+Essential gift: 	387	48
+Sun Apr  9 22:47:52 2017
+Essential gift: 	521	72
+Sun Apr  9 22:47:52 2017
+Essential gift: 	523	32
+Sun Apr  9 22:47:52 2017
+Essential gift: 	626	53
+Sun Apr  9 22:47:52 2017
+Essential gift: 	670	31
+Sun Apr  9 22:47:52 2017
+Essential gift: 	841	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	845	14
+Sun Apr  9 22:47:52 2017
+Luxury gift: 		3005	22
+Sun Apr  9 22:47:52 2017
+Utility gift: 		5265	14
+
+
+Boy: ZZDUG gave 16 gifts to Girl: ZEPDXJS
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Essential gift: 	71	37
+Sun Apr  9 22:47:52 2017
+Essential gift: 	139	73
+Sun Apr  9 22:47:52 2017
+Essential gift: 	144	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	240	35
+Sun Apr  9 22:47:52 2017
+Essential gift: 	320	97
+Sun Apr  9 22:47:52 2017
+Essential gift: 	352	5
+Sun Apr  9 22:47:52 2017
+Essential gift: 	358	19
+Sun Apr  9 22:47:52 2017
+Essential gift: 	387	48
+Sun Apr  9 22:47:52 2017
+Essential gift: 	521	72
+Sun Apr  9 22:47:52 2017
+Essential gift: 	523	32
+Sun Apr  9 22:47:52 2017
+Essential gift: 	626	53
+Sun Apr  9 22:47:52 2017
+Essential gift: 	670	31
+Sun Apr  9 22:47:52 2017
+Essential gift: 	841	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	845	14
+Sun Apr  9 22:47:52 2017
+Luxury gift: 		3005	22
+Sun Apr  9 22:47:52 2017
+Utility gift: 		5265	14
+
+
+Boy: CHTHL gave 3 gifts to Girl: RFABSSC
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Utility gift: 		5065	74
+Sun Apr  9 22:47:52 2017
+Essential gift: 	352	5
+Sun Apr  9 22:47:52 2017
+Luxury gift: 		3005	22
+
+
+Boy: FYOWI gave 17 gifts to Girl: ABCTZTP
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Essential gift: 	71	37
+Sun Apr  9 22:47:52 2017
+Essential gift: 	139	73
+Sun Apr  9 22:47:52 2017
+Essential gift: 	144	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	240	35
+Sun Apr  9 22:47:52 2017
+Essential gift: 	320	97
+Sun Apr  9 22:47:52 2017
+Essential gift: 	352	5
+Sun Apr  9 22:47:52 2017
+Essential gift: 	358	19
+Sun Apr  9 22:47:52 2017
+Essential gift: 	387	48
+Sun Apr  9 22:47:52 2017
+Essential gift: 	521	72
+Sun Apr  9 22:47:52 2017
+Essential gift: 	523	32
+Sun Apr  9 22:47:52 2017
+Essential gift: 	626	53
+Sun Apr  9 22:47:52 2017
+Essential gift: 	670	31
+Sun Apr  9 22:47:52 2017
+Essential gift: 	841	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	845	14
+Sun Apr  9 22:47:52 2017
+Essential gift: 	847	52
+Sun Apr  9 22:47:52 2017
+Luxury gift: 		3005	22
+Sun Apr  9 22:47:52 2017
+Utility gift: 		5265	14
+
+
+Boy: ZRSBG gave 1 gifts to Girl: BCKRCTD
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Utility gift: 		5374	38
+
+
+Boy: QNIVX gave 15 gifts to Girl: FJJEPAK
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Essential gift: 	71	37
+Sun Apr  9 22:47:52 2017
+Essential gift: 	139	73
+Sun Apr  9 22:47:52 2017
+Essential gift: 	144	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	240	35
+Sun Apr  9 22:47:52 2017
+Essential gift: 	320	97
+Sun Apr  9 22:47:52 2017
+Essential gift: 	352	5
+Sun Apr  9 22:47:52 2017
+Essential gift: 	358	19
+Sun Apr  9 22:47:52 2017
+Essential gift: 	387	48
+Sun Apr  9 22:47:52 2017
+Essential gift: 	521	72
+Sun Apr  9 22:47:52 2017
+Essential gift: 	523	32
+Sun Apr  9 22:47:52 2017
+Essential gift: 	626	53
+Sun Apr  9 22:47:52 2017
+Essential gift: 	670	31
+Sun Apr  9 22:47:52 2017
+Essential gift: 	841	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	845	14
+Sun Apr  9 22:47:52 2017
+Essential gift: 	847	52
+
+
+Boy: PBHRW gave 14 gifts to Girl: PLCGQFH
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Essential gift: 	71	37
+Sun Apr  9 22:47:52 2017
+Essential gift: 	139	73
+Sun Apr  9 22:47:52 2017
+Essential gift: 	144	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	240	35
+Sun Apr  9 22:47:52 2017
+Essential gift: 	320	97
+Sun Apr  9 22:47:52 2017
+Essential gift: 	352	5
+Sun Apr  9 22:47:52 2017
+Essential gift: 	358	19
+Sun Apr  9 22:47:52 2017
+Essential gift: 	387	48
+Sun Apr  9 22:47:52 2017
+Essential gift: 	521	72
+Sun Apr  9 22:47:52 2017
+Essential gift: 	523	32
+Sun Apr  9 22:47:52 2017
+Essential gift: 	626	53
+Sun Apr  9 22:47:52 2017
+Essential gift: 	670	31
+Sun Apr  9 22:47:52 2017
+Luxury gift: 		3005	22
+Sun Apr  9 22:47:52 2017
+Utility gift: 		5265	14
+
+
+Boy: RFVNP gave 15 gifts to Girl: KXLKBOE
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Essential gift: 	71	37
+Sun Apr  9 22:47:52 2017
+Essential gift: 	139	73
+Sun Apr  9 22:47:52 2017
+Essential gift: 	144	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	240	35
+Sun Apr  9 22:47:52 2017
+Essential gift: 	320	97
+Sun Apr  9 22:47:52 2017
+Essential gift: 	352	5
+Sun Apr  9 22:47:52 2017
+Essential gift: 	358	19
+Sun Apr  9 22:47:52 2017
+Essential gift: 	387	48
+Sun Apr  9 22:47:52 2017
+Essential gift: 	521	72
+Sun Apr  9 22:47:52 2017
+Essential gift: 	523	32
+Sun Apr  9 22:47:52 2017
+Essential gift: 	626	53
+Sun Apr  9 22:47:52 2017
+Essential gift: 	670	31
+Sun Apr  9 22:47:52 2017
+Essential gift: 	841	3
+Sun Apr  9 22:47:52 2017
+Luxury gift: 		3005	22
+Sun Apr  9 22:47:52 2017
+Utility gift: 		5265	14
+
+
+Boy: HIANZ gave 14 gifts to Girl: AJVDOFU
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Essential gift: 	71	37
+Sun Apr  9 22:47:52 2017
+Essential gift: 	139	73
+Sun Apr  9 22:47:52 2017
+Essential gift: 	144	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	240	35
+Sun Apr  9 22:47:52 2017
+Essential gift: 	320	97
+Sun Apr  9 22:47:52 2017
+Essential gift: 	352	5
+Sun Apr  9 22:47:52 2017
+Essential gift: 	358	19
+Sun Apr  9 22:47:52 2017
+Essential gift: 	387	48
+Sun Apr  9 22:47:52 2017
+Essential gift: 	521	72
+Sun Apr  9 22:47:52 2017
+Essential gift: 	523	32
+Sun Apr  9 22:47:52 2017
+Essential gift: 	626	53
+Sun Apr  9 22:47:52 2017
+Essential gift: 	670	31
+Sun Apr  9 22:47:52 2017
+Essential gift: 	841	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	845	14
+
+
+Boy: QXFEJ gave 11 gifts to Girl: SAXZLJG
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Essential gift: 	71	37
+Sun Apr  9 22:47:52 2017
+Essential gift: 	139	73
+Sun Apr  9 22:47:52 2017
+Essential gift: 	144	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	240	35
+Sun Apr  9 22:47:52 2017
+Essential gift: 	320	97
+Sun Apr  9 22:47:52 2017
+Essential gift: 	352	5
+Sun Apr  9 22:47:52 2017
+Essential gift: 	358	19
+Sun Apr  9 22:47:52 2017
+Essential gift: 	387	48
+Sun Apr  9 22:47:52 2017
+Essential gift: 	521	72
+Sun Apr  9 22:47:52 2017
+Luxury gift: 		3005	22
+Sun Apr  9 22:47:52 2017
+Utility gift: 		5265	14
+
+
+Boy: IBJVE gave 12 gifts to Girl: BJQQXUY
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Essential gift: 	71	37
+Sun Apr  9 22:47:52 2017
+Essential gift: 	139	73
+Sun Apr  9 22:47:52 2017
+Essential gift: 	144	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	240	35
+Sun Apr  9 22:47:52 2017
+Essential gift: 	320	97
+Sun Apr  9 22:47:52 2017
+Essential gift: 	352	5
+Sun Apr  9 22:47:52 2017
+Essential gift: 	358	19
+Sun Apr  9 22:47:52 2017
+Essential gift: 	387	48
+Sun Apr  9 22:47:52 2017
+Essential gift: 	521	72
+Sun Apr  9 22:47:52 2017
+Essential gift: 	523	32
+Sun Apr  9 22:47:52 2017
+Essential gift: 	626	53
+Sun Apr  9 22:47:52 2017
+Essential gift: 	670	31
+
+
+Boy: IMLBR gave 15 gifts to Girl: NZHAXTK
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Essential gift: 	71	37
+Sun Apr  9 22:47:52 2017
+Essential gift: 	139	73
+Sun Apr  9 22:47:52 2017
+Essential gift: 	144	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	240	35
+Sun Apr  9 22:47:52 2017
+Essential gift: 	320	97
+Sun Apr  9 22:47:52 2017
+Essential gift: 	352	5
+Sun Apr  9 22:47:52 2017
+Essential gift: 	358	19
+Sun Apr  9 22:47:52 2017
+Essential gift: 	387	48
+Sun Apr  9 22:47:52 2017
+Essential gift: 	521	72
+Sun Apr  9 22:47:52 2017
+Essential gift: 	523	32
+Sun Apr  9 22:47:52 2017
+Essential gift: 	626	53
+Sun Apr  9 22:47:52 2017
+Essential gift: 	670	31
+Sun Apr  9 22:47:52 2017
+Essential gift: 	841	3
+Sun Apr  9 22:47:52 2017
+Luxury gift: 		3005	22
+Sun Apr  9 22:47:52 2017
+Utility gift: 		5265	14
+
+
+Boy: YOEIL gave 3 gifts to Girl: YJQAUND
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Utility gift: 		5892	80
+Sun Apr  9 22:47:52 2017
+Luxury gift: 		2207	87
+Sun Apr  9 22:47:52 2017
+Essential gift: 	352	5
+
+
+Boy: PWISH gave 2 gifts to Girl: KSZEUWE
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Utility gift: 		5892	80
+Sun Apr  9 22:47:52 2017
+Luxury gift: 		2207	87
+
+
+Boy: XVFKI gave 15 gifts to Girl: GFKJRAB
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Essential gift: 	71	37
+Sun Apr  9 22:47:52 2017
+Essential gift: 	139	73
+Sun Apr  9 22:47:52 2017
+Essential gift: 	144	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	240	35
+Sun Apr  9 22:47:52 2017
+Essential gift: 	320	97
+Sun Apr  9 22:47:52 2017
+Essential gift: 	352	5
+Sun Apr  9 22:47:52 2017
+Essential gift: 	358	19
+Sun Apr  9 22:47:52 2017
+Essential gift: 	387	48
+Sun Apr  9 22:47:52 2017
+Essential gift: 	521	72
+Sun Apr  9 22:47:52 2017
+Essential gift: 	523	32
+Sun Apr  9 22:47:52 2017
+Essential gift: 	626	53
+Sun Apr  9 22:47:52 2017
+Essential gift: 	670	31
+Sun Apr  9 22:47:52 2017
+Essential gift: 	841	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	845	14
+Sun Apr  9 22:47:52 2017
+Essential gift: 	847	52
+
+
+Boy: VJDPS gave 14 gifts to Girl: OUZDUGD
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Essential gift: 	71	37
+Sun Apr  9 22:47:52 2017
+Essential gift: 	139	73
+Sun Apr  9 22:47:52 2017
+Essential gift: 	144	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	240	35
+Sun Apr  9 22:47:52 2017
+Essential gift: 	320	97
+Sun Apr  9 22:47:52 2017
+Essential gift: 	352	5
+Sun Apr  9 22:47:52 2017
+Essential gift: 	358	19
+Sun Apr  9 22:47:52 2017
+Essential gift: 	387	48
+Sun Apr  9 22:47:52 2017
+Essential gift: 	521	72
+Sun Apr  9 22:47:52 2017
+Essential gift: 	523	32
+Sun Apr  9 22:47:52 2017
+Essential gift: 	626	53
+Sun Apr  9 22:47:52 2017
+Essential gift: 	670	31
+Sun Apr  9 22:47:52 2017
+Essential gift: 	841	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	845	14
+
+
+Boy: OINUQ gave 3 gifts to Girl: TBQTMGV
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Utility gift: 		5892	80
+Sun Apr  9 22:47:52 2017
+Essential gift: 	1095	31
+Sun Apr  9 22:47:52 2017
+Essential gift: 	320	97
+
+
+Boy: GEKCT gave 11 gifts to Girl: JUATOZA
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Essential gift: 	71	37
+Sun Apr  9 22:47:52 2017
+Essential gift: 	139	73
+Sun Apr  9 22:47:52 2017
+Essential gift: 	144	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	240	35
+Sun Apr  9 22:47:52 2017
+Essential gift: 	320	97
+Sun Apr  9 22:47:52 2017
+Essential gift: 	352	5
+Sun Apr  9 22:47:52 2017
+Essential gift: 	358	19
+Sun Apr  9 22:47:52 2017
+Essential gift: 	387	48
+Sun Apr  9 22:47:52 2017
+Essential gift: 	521	72
+Sun Apr  9 22:47:52 2017
+Essential gift: 	523	32
+Sun Apr  9 22:47:52 2017
+Essential gift: 	626	53
+
+
+Boy: NLFBK gave 15 gifts to Girl: LXETFOC
+Type of Gift		Price	Value
+
+Sun Apr  9 22:47:52 2017
+Essential gift: 	71	37
+Sun Apr  9 22:47:52 2017
+Essential gift: 	139	73
+Sun Apr  9 22:47:52 2017
+Essential gift: 	144	3
+Sun Apr  9 22:47:52 2017
+Essential gift: 	240	35
+Sun Apr  9 22:47:52 2017
+Essential gift: 	320	97
+Sun Apr  9 22:47:52 2017
+Essential gift: 	352	5
+Sun Apr  9 22:47:52 2017
+Essential gift: 	358	19
+Sun Apr  9 22:47:52 2017
+Essential gift: 	387	48
+Sun Apr  9 22:47:52 2017
+Essential gift: 	521	72
+Sun Apr  9 22:47:52 2017
+Essential gift: 	523	32
+Sun Apr  9 22:47:52 2017
+Essential gift: 	626	53
+Sun Apr  9 22:47:52 2017
+Essential gift: 	670	31
+Sun Apr  9 22:47:52 2017
+Essential gift: 	841	3
+Sun Apr  9 22:47:52 2017
+Luxury gift: 		3005	22
+Sun Apr  9 22:47:52 2017
+Utility gift: 		5265	14
+
+

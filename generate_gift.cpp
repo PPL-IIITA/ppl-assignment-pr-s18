@@ -45,7 +45,16 @@ int main () {
 	utl_value[0] = -1;
 	utl_class[0] = -1;
 	for (i = 0; i < 60; i++) {
-		printf ("%d %d %d %d %d %d %d %d\n", value[i], price[i], type[i], is_selected[i], lux_rate[i], lux_difficulty[i], utl_value[i], utl_class[i]);
+		if (type[i] == 0) {
+			printf ("%d %d %d %d\n", value[i], price[i], type[i], is_selected[i]);
+		}
+		else if (type[i] == 1) {
+			printf ("%d %d %d %d %d %d\n", value[i], price[i], type[i], is_selected[i], lux_rate[i], lux_difficulty[i]);
+		}
+		else {
+			printf ("%d %d %d %d %d %d\n", value[i], price[i], type[i], is_selected[i], utl_value[i], utl_class[i]);
+		}
+		
 	}
 	return 0;
 }

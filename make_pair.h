@@ -1,7 +1,6 @@
 #ifndef MAKE_PAIR_H
 #define MAKE_PAIR_H
-#include "couple.h"
-
+#include "fill_data.h"
 using namespace std;
 	/*!\brief CLASS PAIR
 	*containing attributes of couples formed
@@ -11,6 +10,8 @@ class Pair {
 	public:
 		int k;		//!< Number of couples
 		Couple cp[100];	//!< Object Array of Couple
+		Girl girl[100];
+		Boy boy[100];
 		
 	public:
 		/** @brief Allocate boyfriends to all girls when Pair object is created
@@ -32,6 +33,12 @@ class Pair {
  		*
 	 	*/
 		void print_gift ();		//!< Print the gifts exchanged between a couple
+
+		void print_gift6 ();		//!< Print gifts exchanged between couple for ques 6. This is in append mode.
+
+		void breakup(int);		//!< Perform breakup and then assign new boyfriends to girls
+	
+		int ret_num (int);		//!< returns number of couples which have their happiness less than the passed value
 
 };
 #endif
