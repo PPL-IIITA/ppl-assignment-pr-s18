@@ -1,0 +1,7 @@
+Run following commands to generate random input for boys, girls, gifts.
+->g++ generate_boy.cpp
+->./a.out
+->g++ generate_girl.cpp
+->./a.out
+->g++ generate_gift.cpp
+->./a.out

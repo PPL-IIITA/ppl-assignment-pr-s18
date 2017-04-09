@@ -1,0 +1,47 @@
+-------------For question 3------------
+ques 2 using inheritance is in 3.cpp
+to view gifts exchanged and happy and compatible couples, open file Happiness_compatibility_gift.txt
+(k is being taken as an input)
+->g++ 3.cpp libphase2.a
+->./a.out
+
+-------------For question 4------------
+Breakup was done for least k happy couples and new couples were allocated
+(k is being taken as an input)
+To view the new couples so formed after breakups open file couple4.txt
+->g++ 4.cpp libphase2.a
+->./a.out
+
+-------------For question 5------------
+The choice between allotment algorithm of the gifts is randomly generated in the main function i.e. 5.cpp
+(k is being taken as an input)
+To view this answer open file new_couple.txt
+->g++ 5.cpp libphase2.a
+->./a.out
+
+
+-------------For question 6------------
+Gifting days and t are randomly generated (6.cpp)
+To view the new couples so formed after breakups and allocation open file ques6.txt
+->g++ 6.cpp libphase2.a
+->./a.out
+
+-------------For question 7------------
+The list of the boys is randomly generated through a function in implement.h
+The choice between searching algorithm of the girlfriend is randomly generated in function in implement.h
+The default mechanism is normal array implementation
+To view the girlfriend of the boys, open file ques7.txt
+->g++ 7.cpp libphase2.a
+->./a.out
+
+
+-------------For question 8------------
+The choice between the gifting algorithm is generated randomly in the function in giftSelector.h
+To view the gift exchanges that took place between couples open file ques8.txt
+->g++ 8.cpp libphase2.a
+->./a.out
+
+
+
+
+
